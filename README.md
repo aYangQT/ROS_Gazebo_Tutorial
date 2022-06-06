@@ -53,7 +53,7 @@ sudo apt-get install ros-melodic-teb-local-planner
 ```bash
 mkdir -p ~/tutorial_ws/src
 cd ~/tutorial_ws/src 
-git clone https://github.com/NRottmann/ROS_Gazebo_Tutorial.git
+git clone https://github.com/aYangQT/ROS_Gazebo_Tutorial.git
 cd  ..
 catkin_make
 ```
